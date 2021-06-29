@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "CaixaEsperta",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
