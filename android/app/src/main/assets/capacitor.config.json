@@ -1,0 +1,6 @@
+{
+	"appId": "br.com.rti.caixaesperta",
+	"appName": "CaixaEsperta",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

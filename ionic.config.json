@@ -1,0 +1,8 @@
+{
+  "name": "CaixaEsperta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "30514d46"
+}
